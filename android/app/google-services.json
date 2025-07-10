@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73479642078",
+    "project_id": "agroneo-e734d",
+    "storage_bucket": "agroneo-e734d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73479642078:android:d9ca89ec573eca7380db4f",
+        "android_client_info": {
+          "package_name": "com.example.agri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrlaDH5w2zKTMmlVxIz7qfvx-eOvOyWnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
